@@ -10,7 +10,7 @@ Functions:
 
 Args and usage:
 
-./logscript.sh [-h]
+logscript.sh [option]
 - -h - display help
 - -a - display all IP
 - -r - delete "remote_addr=" string
