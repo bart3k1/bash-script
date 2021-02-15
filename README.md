@@ -11,9 +11,9 @@ Functions:
 Args and usage:
 
 ./logscript.sh [-h]
--h - display help
--a - display all IP
--r - delete "remote_addr=" string
--s - sort all IPs
--d - display only duplicated IPs
--D - display IPs without duplicates
+ -h - display help
+ -a - display all IP
+ -r - delete "remote_addr=" string
+ -s - sort all IPs
+ -d - display only duplicated IPs
+ -D - display IPs without duplicates
